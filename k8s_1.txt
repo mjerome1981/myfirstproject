@@ -1,0 +1,9 @@
+Kubernetes Monitoring and Logging:
+
+
+Monitoring Metrics Alerting Graphing Time-Series Prometheus
+
+
+In general there are two stacks for monitoring in Kubernetes - ELK and EFK
+
+http://100daysofdevops.com/21-days-of-aws-using-terraform-day-1-introduction-to-terraform/
